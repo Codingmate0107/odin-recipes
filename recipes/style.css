@@ -6,6 +6,10 @@ h1 {
     color: rgb(250, 158, 11);
 }
 
+body {
+    background-color: rgb(249, 239, 200);
+}
+
 .desc{
     text-align: center;
     color: rgb(255, 0, 230);
