@@ -2,3 +2,23 @@ h1,
 div {
     text-align: center;
 }
+h1 {
+    color: rgb(250, 158, 11);
+}
+div {
+    padding: 1%;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 230);
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    margin: 10px;
+    font-size: 22px;
+    background-color: rgb(249, 239, 200);
+    border: none;
+}

@@ -1,0 +1,23 @@
+h1,
+div {
+    text-align: center;
+}
+h1 {
+    color: rgb(250, 158, 11);
+}
+
+.desc{
+    text-align: center;
+    color: rgb(255, 0, 230);
+}
+
+.desc.para {
+    color: rgb(144, 24, 250);
+}
+
+.head {
+    color: rgb(180, 52, 235);
+}
+.list {
+    color: rgb(52, 119, 235);
+}
