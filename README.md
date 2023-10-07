@@ -9,3 +9,4 @@ Skills:
 3. Lists
 4. Links and Images
 5. Commit messages
+6. CSS
