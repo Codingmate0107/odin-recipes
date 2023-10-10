@@ -1,13 +1,19 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
 h1,
 div {
-    text-align: center;
+    margin: 20px auto;
 }
 h1 {
     color: rgb(250, 158, 11);
+    border: 4px dashed gold;
+    display: inline-block;
+    padding: 20px;
 }
-div {
-    padding: 1%;
-}
+
 a {
     text-decoration: none;
     color: rgb(255, 0, 230);
@@ -21,5 +27,24 @@ button {
     margin: 10px;
     font-size: 22px;
     background-color: rgb(249, 239, 200);
-    border: none;
+    border: 2px solid red;
+    box-shadow: 2px 2px 2px red;
+    padding: 1%;
+}
+
+img {
+    display: inline-block;
+    height: auto; 
+    width: 300px;
+    box-shadow: 1px 1px 25px 0px orange;
+}
+
+
+.content{
+    margin: 10px;
+}
+
+.top {
+    text-align: center;
+    display: inline-block;
 }
